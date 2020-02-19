@@ -3,17 +3,17 @@ var mainState = {
         // Here we preload the assets
 
         //name image on the left, give path to image on the right
-        game.load.image('player', '/media/doggo.png');
-        game.load.image('wall', '/media/wall.png');
-        game.load.image('coke', '/media/coke.png');
-        game.load.image('enemy', '/media/depression.png');
-        game.load.image('chef', '/media/chef.png');
-        game.load.image('egg', '/media/egg.png');
-        game.load.image('background', '/media/openconceptkitchen.png')
-        game.load.audio('audio', '/media/Coin.m4a');
-        game.load.audio('die','/media/Death.wav');
-        game.load.audio('chef','/media/chef.m4a');
-        game.load.audio('jump','/media/Jump.wav');
+        game.load.image('player', 'MissionBitProject/media/doggo.png');
+        game.load.image('wall', 'MissionBitProject/media/wall.png');
+        game.load.image('coke', 'MissionBitProject/media/coke.png');
+        game.load.image('enemy', 'MissionBitProject/media/depression.png');
+        game.load.image('chef', 'MissionBitProject/media/chef.png');
+        game.load.image('egg', 'MissionBitProject/media/egg.png');
+        game.load.image('background', 'MissionBitProject/media/openconceptkitchen.png')
+        game.load.audio('audio', 'MissionBitProject/media/Coin.m4a');
+        game.load.audio('die','MissionBitProject/media/Death.wav');
+        game.load.audio('chef','MissionBitProject/media/chef.m4a');
+        game.load.audio('jump','MissionBitProject/media/Jump.wav');
 
 
     },

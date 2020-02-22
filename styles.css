@@ -31,5 +31,10 @@ li a:hover:not(.active) {
 }
 
 p{
-  text-align: center;
+
+}
+
+.otherText{
+  display: flex;
+  justify-content: center;
 }

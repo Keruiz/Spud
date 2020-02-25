@@ -26,15 +26,15 @@ li a:hover:not(.active) {
   background-color: #111;
 }
 
+
+/* Work on this later */
 .active {
-  background-color: #4CAF50;
-}
-
-p{
-
+  background-color: rgb(23, 228, 194);
 }
 
 .otherText{
   display: flex;
+  text-align: center;
   justify-content: center;
+  flex-wrap: wrap;
 }
